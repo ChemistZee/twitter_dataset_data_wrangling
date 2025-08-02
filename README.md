@@ -1,1 +1,11 @@
-This project will feature data gathered from two main sources; udacity classroom and twitter API. The aim of this project is to gather relevant data, assess the data for tidiness and dirtiness, document cleaning operations, clean data, and make useful visualizations and report relevant conclusions.
+Project Overview
+This project utilizes data collected from two primary sources: the Udacity classroom and the Twitter API. The goal is to:
+Collect and consolidate relevant datasets
+Assess data quality and structure (tidiness vs. messiness)
+Document and perform data cleaning procedures
+Conduct exploratory data analysis and visualization
+Report key insights and conclusions
+Repository Contents
+This repository contains two PDF documents:
+Wrangling Report — Details the steps taken to assess, clean, and prepare the data.
+Act Report — Summarizes key observations and visualizations derived from the dataset.
