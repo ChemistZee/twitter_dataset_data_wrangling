@@ -1,0 +1,1 @@
+This project will feature data gathered from two main sources; udacity classroom and twitter API. The aim of this project is to gather relevant data, assess the data for tidiness and dirtiness, document cleaning operations, clean data, and make useful visualizations and report relevant conclusions.
